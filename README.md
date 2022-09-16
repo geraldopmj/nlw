@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-Projeto construído no evento next level da Rocket Seat.
+Projeto construído no evento Next Level Week da Rocket Seat.
 
 ## Tecnologias 
 
