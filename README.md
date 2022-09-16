@@ -1,7 +1,5 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./github/preview.png)
-
 Projeto construído no evento next level da Rocket Seat.
 
 ## Tecnologias 
@@ -15,3 +13,7 @@ Projeto construído no evento next level da Rocket Seat.
 ## Contato
 
 geraldo.pmj@gmail.com
+
+## Preview
+
+![preview](./github/preview.png)
