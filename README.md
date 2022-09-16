@@ -9,6 +9,7 @@ Projeto construído no evento Next Level Week da Rocket Seat.
 - Git e Github
 
 [Clique aqui para acessar]([url](https://geraldopmj.github.io/nlw/))
+[link](https://geraldopmj.github.io/nlw/){:target="_blank"}
 
 ## Contato
 
