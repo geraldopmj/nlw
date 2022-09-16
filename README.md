@@ -8,7 +8,7 @@ Projeto construído no evento next level da Rocket Seat.
 - CSS
 - Git e Github
 
-[Clique aqui para acessar](https://gerrarrrr.github.io/nlw/)
+[Clique aqui para acessar](https://geraldopmj.github.io/nlw/)
 
 ## Contato
 
