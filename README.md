@@ -8,8 +8,8 @@ Projeto construído no evento Next Level Week da Rocket Seat.
 - CSS
 - Git e Github
 
-[Clique aqui para acessar]([url](https://geraldopmj.github.io/nlw/))
-[link](https://geraldopmj.github.io/nlw/){:target="_blank"}
+[Clique aqui para acessar](https://geraldopmj.github.io/nlw/)
+<a href="https://geraldopmj.github.io/nlw/" target="_blank">example</a>
 
 ## Contato
 
